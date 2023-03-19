@@ -3,7 +3,7 @@ import { Route, Routes } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import Home from './pages/Home';
 import SeeAll from './pages/SeeAll';
-import { ResturantDetail } from './pages/ResturantDetail';
+import ResturantDetail from './pages/ResturantDetail';
 function App() {
   return (
     <>
